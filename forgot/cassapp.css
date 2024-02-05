@@ -1,0 +1,82 @@
+.log{
+  font-size: 35px;
+  font-weight: bold;
+  font-family: arial;
+  margin-bottom: 10px;
+  color: white;
+}
+.curve{
+  background-color: rgb(50, 50, 50);
+  border: solid;
+  display: inline-block;
+  padding: 50px 30px 50px 30px;
+  border-radius: 30px;
+  border: none;
+}
+.to{
+  color: rgb(175, 175, 175);
+  font-size: 17px;
+  font-family:arial;
+  font-weight: bold;
+  width: 450px;
+  margin-bottom: 50px;
+}
+.span{
+  color: rgb(43, 184, 43);
+}
+.num{
+  color: rgb(175, 175, 175);
+  font-size: 16px;
+  font-family:arial;
+  font-weight: 600;
+  margin-bottom: 10px;
+  padding-left: 10px;
+}
+.textt{
+  border-width:0px;
+  border:solid;
+  border-color: rgb(43, 184, 43);
+  width: 450px;
+  height: 55px;
+  border-radius: 15px;
+  margin-bottom: 50px;
+  background-color: rgb(36, 36, 36);
+  color: rgb(143, 143, 143);
+  font-size:20px;
+}
+
+.but1{
+  width: 220px;
+  height: 50px;
+  border-radius: 30px;
+  font-weight: bold;
+  font-family: arial;
+  font-size: 19px;
+  border: none;
+  color: white;
+  background-color: rgb(80, 80, 80);
+}
+.but2{
+  width: 220px;
+  height: 50px;
+  border-radius: 30px;
+  font-weight: bold;
+  font-family: arial;
+  font-size: 19px;
+  background-color: rgb(43, 184, 43);
+  color: rgb(217, 250, 217);
+  border: none;
+  opacity: 90px;
+}
+.button-div{
+  display: flex;
+  width: 450px;
+  justify-content: space-between;
+}
+.body{
+  background-color: rgb(29, 29, 29);
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50% ,-50%);
+}

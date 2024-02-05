@@ -1,0 +1,174 @@
+.x{
+    font-size: 15px;
+    font-family: arial;
+    padding-left: 10px;
+    padding-top: 10px;
+    
+    color: white;
+}
+.x-container{
+    display: flex;
+    
+}
+.background{
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    position: absolute;
+
+}
+.work{
+    background-color: rgb(56, 57, 65);
+  
+}
+.below-x-container-div{
+    display: flex;
+    color: white;
+    flex-direction: column;
+    align-items: center;
+}
+.third-container{
+    
+    color: gray;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.span{
+    color: rgb(17, 92, 252);
+}
+.black-container{
+    z-index: 1;
+    background-color: black;
+    height: 500px;
+    width: 450px;
+    border-radius: 15px;
+    border-top-right-radius: 15px;
+}
+.image{
+    color: white;
+    font-size: 45px;
+    flex: 1;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+}
+.svg{
+    
+        |}
+.sign-in{
+   
+    background-color: white;
+    display: flex;
+    align-items: center;
+    border-radius: 20px;
+    height: 30px;
+    margin-bottom: 25px;
+}
+.sign-in1{
+    
+    background-color: white;
+    display: flex;
+    align-items: center;
+    border-radius: 20px;
+    height: 30px;
+    width: 250px;
+    margin-bottom: 25px;
+    justify-content: space-between;
+}
+.sign-in2{
+    
+    display: flex;
+    background-color: white;
+    align-items: center;
+    border-radius: 20px;
+    height: 30px;
+    width: 250px;
+    margin-bottom: 20px;
+    
+}
+
+.google-pic{
+    width: 18px;
+    height:18px;
+    border-radius: 50px;
+    margin-left: 5px;
+}
+.google-pic1{
+    width: 18px;
+    height:18px;
+    border-radius: 50px;
+    margin-left: 50px;
+    
+}
+.google-svg{
+    width: 18px;
+    height: 18px;
+    margin-right: 5px;
+}
+.class-names{
+    width: 200px;
+    color: black;
+    margin-left: 5px;
+    display: flex;
+    flex-direction: column;
+    vertical-align: middle;
+}
+.option{
+    font-family: Arial, 
+    Helvetica, sans-serif;
+    font-size: 10px;
+    font-weight: 700;
+    color: black;
+}
+.option1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    font-weight: 700;
+    
+    width: 100px;
+}
+    .option2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-weight: 700;
+    color: black;
+    width: 100px;
+    margin-left: 70px;
+    
+}
+.user-name{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    font-weight: 700;
+    color: gray;
+}
+.ma-niga{
+    
+    border-color: pink;
+    font-family: arial;
+    font-weight: bold;
+    font-size: 22px;
+    margin-left: -120px;
+    margin-bottom: 30px;
+    margin-top: 10px;
+}
+.or{
+    color: white;
+    margin-top: -20px;
+    padding-top: 1px;
+    padding-bottom: 5px;
+}
+.signing{
+    font-size: 11px;
+    width: 224px;
+    
+    margin-top:-10px ;
+    color: gray;
+}
+.sign{
+    font-size: 11px;
+    width: 200px;
+    margin-left: -55px;
+    margin-top: 30px;
+}
